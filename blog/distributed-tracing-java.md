@@ -1,6 +1,6 @@
 ---
 title: Implementing Distributed Tracing in a Java application
-slug: distributed-tracing-java
+# slug: distributed-tracing-java
 date: 2022-11-03
 description: Distributed tracing provides insights into how a particular service is performing as part of the whole in a distributed system. In this article, we will implement distributed tracing for a Java application based on microservices architecture...
 image: https://i.imgur.com/mErPwqL.png

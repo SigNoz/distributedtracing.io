@@ -1,5 +1,5 @@
 ---
-slug: apm-vs-distributed-tracing
+# slug: apm-vs-distributed-tracing
 title: How Distributed Tracing augments the APM experience? 
 date: 2022-11-03
 description: There are standalone distributed tracing tools like Jaeger, and there are APM tools that do not provide distributed tracing capabilities. In this article, we will see how distributed tracing complements an APM tool for a holistic performance monitoring experience...

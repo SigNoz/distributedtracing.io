@@ -1,6 +1,6 @@
 ---
 title: Why is Distributed Tracing in Microservices needed?
-slug: distributed-tracing-in-microservices
+# slug: distributed-tracing-in-microservices
 date: 2022-11-03
 description: Microservices architecture allows technology companies to build application services around business capabilities. It enables rapid development and also boosts developer productivity. But it also introduces complexity. Distributed tracing is the...
 image: https://i.imgur.com/mErPwqL.png

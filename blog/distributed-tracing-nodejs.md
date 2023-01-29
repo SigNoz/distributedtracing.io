@@ -1,6 +1,6 @@
 ---
 title: Implementing Distributed Tracing in a Nodejs application
-slug: distributed-tracing-nodejs
+# slug: distributed-tracing-nodejs
 # date: 2022-10-10
 # tags: [OpenTelemetry Instrumentation, JavaScript, Distributed Tracing]
 # authors: [selva]

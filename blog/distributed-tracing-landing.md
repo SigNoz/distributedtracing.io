@@ -1,5 +1,5 @@
 ---
-slug: /abcc
+# slug: abcc
 title: Distributed Tracing
 date: 2022-11-03
 description: Distributed tracing helps you track requests across microservices and understand issues affecting your application performance. It enables developers to understand how different components of a distributed system interact to process a user request...

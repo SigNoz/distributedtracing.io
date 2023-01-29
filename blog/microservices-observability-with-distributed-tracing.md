@@ -1,5 +1,5 @@
 ---
-slug: microservices-observability-with-distributed-tracing
+# slug: microservices-observability-with-distributed-tracing
 title: How to achieve Observability for Microservices-based apps using Distributed Tracing?
 date: 2022-11-03
 description: Modern digital organizations have rapidly adopted microservices-based architecture for their applications. But microservices architecture is complex, and troubleshooting performance issues is challenging. Making your microservices observable with distributed tracing is critical to solve...

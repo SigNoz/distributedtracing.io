@@ -1,6 +1,6 @@
 ---
 title: Jaeger distributed tracing - complete guide
-slug: distributed-tracing-jaeger
+# slug: distributed-tracing-jaeger
 # date: 2022-01-18
 # tags: [Distributed Tracing, Jaeger]
 # authors: ankit_anand

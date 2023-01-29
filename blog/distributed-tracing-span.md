@@ -1,6 +1,6 @@
 ---
 title: Spans - a key concept of distributed tracing
-slug: distributed-tracing-span
+# slug: distributed-tracing-span
 # date: 2023-01-21
 # tags: [Distributed Tracing]
 # authors: ankit_anand

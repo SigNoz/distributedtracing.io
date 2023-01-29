@@ -1,6 +1,6 @@
 ---
 title: What is N+1 query problem and how distributed tracing solves it?
-slug: N+1-query-distributed-tracing
+slug: query-distributed-tracing
 # date: 2022-09-06
 # tags: [Distributed Tracing]
 # authors: pranay
