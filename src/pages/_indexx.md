@@ -1,8 +1,8 @@
 ---
 title: Distributed Tracing
-slug: /
+slug: /abcd
 description: Distributed tracing helps you track requests across microservices and understand issues affecting your application performance. It enables developers to understand how different components of a distributed system interact to process a user request.
-hide_table_of_contents: true
+hide_table_of_contents: false
 ---
 
 # Distributed Tracing
