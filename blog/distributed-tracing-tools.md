@@ -1,7 +1,7 @@
 ---
 # slug: distributed-tracing-tools
-title: Latest top 13 distributed tracing tools 
-date: 2022-11-03
+title: Top 13 Distributed Tracing Tools 
+date: 2023-01-29
 description: Latest top distributed tracing tools list in 2022 - 1.SigNoz 2.Dynatrace 3.New Relic 4.Honeycomb 5.Lightstep 6.Elastic APM 7.Jaeger 8.DataDog 9.Zipkin...
 image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false

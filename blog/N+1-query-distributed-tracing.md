@@ -1,7 +1,7 @@
 ---
-title: What is N+1 query problem and how distributed tracing solves it?
+title: N+1 query problem solved using Distributed Tracing
 slug: query-distributed-tracing
-# date: 2022-09-06
+date: 2023-01-20
 # tags: [Distributed Tracing]
 # authors: pranay
 description: N+1 query problem is a problem in database retrieval where the related entities of an object are queried individually from a database, leading to O(n) queries
@@ -51,19 +51,12 @@ If there are N teams, you can see why this would lead to N+1 database queries.
 Playing it out, this would issue queries like
 
 ```
-
 SELECT * from teams WHERE … 
-
 SELECT * from members where teamID = 1
-
 SELECT * from members where teamID = 2
-
 SELECT * from members where teamID = 3
-
 SELECT * from members where teamID = 4
-
 …
-
 ```
 
 
