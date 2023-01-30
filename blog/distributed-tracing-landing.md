@@ -136,10 +136,10 @@ cd signoz/deploy/
 
 You can visit our documentation for instructions on how to install SigNoz using Docker Swarm and Helm Charts.
 
-<!-- [deploy_docker_documentation.webp](Distribute%20bc05b/deploy_docker_documentation.webp) -->
 
+[![Deployment Docs](https://signoz.io/img/blog/common/deploy_docker_documentation.webp)](https://signoz.io/docs/install/docker/?utm_source=blog&utm_medium=client_logging)
 
-<!-- ## Further Reading
+## Further Reading
 
 ### Examples of Distributed Tracing
 
@@ -151,4 +151,4 @@ You can visit our documentation for instructions on how to install SigNoz using 
 
 [Spans - a key concept of Distributed Tracing](https://signoz.io/blog/distributed-tracing-span/)
 
-[Context Propagation in Distributed Tracing](https://signoz.io/blog/context-propagation-in-distributed-tracing/) -->
+[Context Propagation in Distributed Tracing](https://signoz.io/blog/context-propagation-in-distributed-tracing/)
