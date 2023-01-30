@@ -46,7 +46,7 @@ const config = {
           blogTitle: 'Distributed Tracing blog!',
           blogDescription: 'A Docusaurus powered blog!',
           postsPerPage: 'ALL',
-          blogSidebarTitle: 'More on Distributed Tracing',
+          blogSidebarTitle: 'All Posts',
           blogSidebarCount: 'ALL',
 
 
