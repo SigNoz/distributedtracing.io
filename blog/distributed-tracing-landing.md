@@ -1,30 +1,38 @@
 ---
-title: Distributed Tracing
-slug: /
-description: Distributed tracing helps you track requests across microservices and understand issues affecting your application performance. It enables developers to understand how different components of a distributed system interact to process a user request.
-hide_table_of_contents: true
+# slug: abcc
+title: Distributed Tracing!!!
+date: 2023-01-30
+description: Distributed tracing helps you track requests across microservices and understand issues affecting your application performance. It enables developers to understand how different components of a distributed system interact to process a user request...
+image: https://i.imgur.com/mErPwqL.png
+hide_table_of_contents: false
+keywords: 
+  - distributed tracing
+
+# tags: [hola, docusaurus]
 ---
 
 # Distributed Tracing
+
+![Distributed Tracing](/img/blog/distributed_tracing_cover.webp)
 
 Distributed tracing helps you track requests across services and understand issues affecting your application performance. In distributed cloud architecture, debugging performance issues is complicated. Distributed tracing gives visibility to teams on how a user request performs across different services, protocols, and cloud infrastructure.
 
 
 Let’s start with a brief overview of distributed tracing.
 
-## What is Distributed Tracing?
+## **What is Distributed Tracing?**
 
 Distributed tracing is a method to track user requests in their entirety as it travels across components of a distributed system. Cloud and containerization technologies have enabled the creation of distributed system designs like microservices and FaaS (functions as a service).
 
-> Distributed tracing enables you to connect the dots of how your distributed system interacts. While traditional monitoring struggles to illuminate the behavior of distributed systems, distributed tracing can help you identify performance patterns of the various components in a distributed system.
+> *Distributed tracing enables you to connect the dots of how your distributed system interacts. While traditional monitoring struggles to illuminate the behavior of distributed systems, distributed tracing can help you identify performance patterns of the various components in a distributed system.*
 > 
 
 In a distributed system, a click from a user initiates a transaction that can travel through hundreds of components before completing the user request. Distributed tracing is the technique that shows how the different components interact together to complete the user request.
 
-The top two important data points that distributed tracing captures about a user request are:
+The **top two important data points** that distributed tracing captures about a user request are:
 
-- the time taken to traverse each component in a distributed system
-- the sequential flow of the request from its start to the end
+1.  **The time taken to traverse each component in a distributed system**
+2.  **The sequential flow of the request from its start to the end**
 
 ## Why is Distributed Tracing needed?
 
@@ -65,13 +73,13 @@ Distributed tracing gives the much needed visibility into the operations of a co
 
 Tracing data can be utilized at two levels:
 
-### Single Trace Data
+### 1. Single Trace Data
 Tracing data can be visualized in the form of Flamegraphs and Gantt Charts to reconstruct the entire flow of a specific user request. This enables us to understand exactly what happened to that request in a particular component of the distributed system.
 
 [SigNoz](https://signoz.io/) shows Flamegraphs and Gantt charts both to make visualizing trace data easier. In the dashboard below, you can see the data for a single trace that consists of 50 spans.
 
 
-### Aggregated Trace Data
+### 2. Aggregated Trace Data
 Using tags and tracing data, you can run aggregates to get relevant business metrics from the behavior of your distributed systems. For example, with SigNoz, you can get the error rate and 99th percentile latency of `customer_type: gold` or `deployment_version: v2`. This enables quick analysis of services affecting a particular user group or type of requests.
 
 
@@ -131,7 +139,7 @@ You can visit our documentation for instructions on how to install SigNoz using 
 <!-- [deploy_docker_documentation.webp](Distribute%20bc05b/deploy_docker_documentation.webp) -->
 
 
-## Further Reading
+<!-- ## Further Reading
 
 ### Examples of Distributed Tracing
 
@@ -143,4 +151,4 @@ You can visit our documentation for instructions on how to install SigNoz using 
 
 [Spans - a key concept of Distributed Tracing](https://signoz.io/blog/distributed-tracing-span/)
 
-[Context Propagation in Distributed Tracing](https://signoz.io/blog/context-propagation-in-distributed-tracing/)
+[Context Propagation in Distributed Tracing](https://signoz.io/blog/context-propagation-in-distributed-tracing/) -->
